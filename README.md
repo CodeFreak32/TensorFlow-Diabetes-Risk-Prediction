@@ -37,3 +37,6 @@ Learn more about the TensorFlow community and how to contribute.
 # About the Program
 This perticular program uses a dataset on certain factors effecting the possibility of diabetes to calculate the Risk of Diabetes.
 The dataset used was sourced off of internet(kaggle.com).
+
+<img src="predection_output.png">
+<img src="accuracy_output.png">
